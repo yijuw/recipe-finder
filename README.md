@@ -2,8 +2,8 @@
 
 Search and show recipes from the spoonacular API[https://spoonacular.com/food-api]
 
-<img src="https://raw.githubusercontent.com/yijuw/recipe-finder/master/screenshots/search_results.png"  width="250">
-<img src="https://raw.githubusercontent.com/yijuw/recipe-finder/master/screenshots/single_meal_recipe.png"  width="250">
+<img src="https://raw.githubusercontent.com/yijuw/recipe-finder/master/screenshots/search_results.png" width="450">
+<img src="https://raw.githubusercontent.com/yijuw/recipe-finder/master/screenshots/single_meal_recipe.png" width="450">
 
 
 ## Project Specifications
